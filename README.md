@@ -12,6 +12,10 @@
 Este proyecto es una página estatica que muestra un formulario con diversos campos que permiten cambiar el estilo de una caja.
 Se puede dar un color de fondo, de texto, mostrar o ocultar el texto, cambiar el tamaño, entre otras opciones.
 
+[Revisa la página aquí](https://customstyleform-desafiolatam.netlify.app/)
+
+![changeStyle](https://github.com/user-attachments/assets/a08c03b2-e11f-4851-b55b-b8c5f9c5d885)
+
 ## Tecnologías Utilizadas
 
 - **HTML5**: Para la estructura del sitio web.
